@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">AndARColoredBoxes</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video_texture_render">VideoTextureRender</string>
+    <string name="title_activity_and_ar">AndARActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_surface">SurfaceActivity</string>
+    <string name="title_activity_video_renderer">VideoRenderer</string>
+
+</resources>
